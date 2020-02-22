@@ -1,3 +1,22 @@
+#body-content{
+    margin-top: 10px;
+    margin-right: 50px;
+    margin-bottom: 10px;
+    margin-left: 50px;
+}
+
+.td_le{
+    padding-left: 50px;
+}
+
+.td_top{
+    padding-top: 10px;
+}
+
+.t_span{
+    text-align: center; 
+}
+
 #main-content {
     font-size: 36px;
     font-weight: bold;
